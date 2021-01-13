@@ -143,7 +143,7 @@ async function handler(id) {
         } else {
             var out = ({
                 mute: false,
-                msg: `*✋ හේයි.*\n\nමම ඔන්ලයි ආවම රිප්ලයි එකක් දාන්නම්. ප්ලීස් තව ටිකක් ඉන්න.මැසේජ් පුරවන්නැතුව.`
+                msg: `*✋ හායි*\n\nමම දැන් ඕෆ්ලයින්.ඔන්ලයින් ආවම රිප්ලයි එකක් දානකම් ආපහු මැසේජ් දාන්න එපා.හ`
             })
             return out
         }
@@ -161,7 +161,7 @@ async function handler(id) {
             } else {
                 var out = ({
                     mute: false,
-                    msg: `*✋ හායි*\n\nමම දැන් ඕෆ්ලයින්.ඔන්ලයින් ආවම රිප්ලයි එකක් දානකම් ආපහු මැසේජ් දාන්න එපා.\n You have ${read.times} warning(s).`
+                    msg: `*✋ හේයි.*\n\nමම ඔන්ලයින් ආවම රිප්ලයි එකක් දාන්නම්. ප්ලීස් තව ටිකක් ඉන්න.මැසේජ් පුරවන්නැතුව.\n You have ${read.times} warning(s).`
                 })
                 return out
             }
