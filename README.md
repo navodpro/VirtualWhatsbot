@@ -33,6 +33,7 @@
 
 ### Deploy :
 [![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/navodpro/VirtualWhatsbot "Deploy with Heroku")<br>
+[How To Deploy](https://youtu.be/PMFXWV2TD-0)
 Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
 [Deploy in VPS](https://youtu.be/jlXjXVsYkV8)
 
