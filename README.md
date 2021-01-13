@@ -1,13 +1,13 @@
-<center><img src=https://telegra.ph/file/be818723483e4a2f367cb.png>
-### Features :
-- Modular
-- Pmpermit Included
-- Easily Deployable
-- Ban Free (Using Whatsapp Web)
-- Easy to Use
-- Directory Listing in Web Server
-- Terminal Included
-- Encrypted Traffic
+<img src=https://telegra.ph/file/be818723483e4a2f367cb.png>
+### Features :<br>
+- Modular<br>
+- Pmpermit Included<br>
+- Easily Deployable<br>
+- Ban Free (Using Whatsapp Web)<br>
+- Easy to Use<br>
+- Directory Listing in Web Server<br>
+- Terminal Included<br>
+- Encrypted Traffic<br>
 
 ### Pre Added Plugins :
 - **pmpermit** - Permission for direct message(.a , .nopm , .mute , .unmute , .block , .unblock )
