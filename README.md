@@ -1,4 +1,4 @@
-<img src=https://telegra.ph/file/be818723483e4a2f367cb.png>
+<center><img src=https://telegra.ph/file/be818723483e4a2f367cb.png>
 ### Features :
 - Modular
 - Pmpermit Included
