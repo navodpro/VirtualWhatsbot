@@ -5,11 +5,6 @@
 </h1>
 <h4 align="center">Virtual Userbot for Whatsapp with Modules</h4>
 <br>
-<p align="center">
-<a href="https://github.com/navodpro/VirtualWhatsbot/releases">
-    <img src="https://shields.io/badge/WHATSBOT-Version--1.0.0-red?logo=whatsapp&style=for-the-badge"
-         alt="Version"></a><br>
-</p>
 
 <br>
 
