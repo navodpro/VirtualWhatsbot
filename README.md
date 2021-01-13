@@ -1,13 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/navodpro/VirtualWhatsBot"><img src="https://telegra.ph/file/be818723483e4a2f367cb.png" width="290"></a>
-  <br>
-<b>Whatsbot</b>
-</h1>
-<h4 align="center">Virtual Userbot for Whatsapp with Modules</h4>
-<br>
-
-<br>
-
 ### Features :
 - Modular
 - Pmpermit Included
